@@ -19,10 +19,6 @@ function mystery_number_2(num)
         println(1)
     elseif num < 5
         println(8)
-    # elseif num <3
-    #     println(8)
-    # elseif num == 3
-    #     println(3)
     else
         println(num)
     end
